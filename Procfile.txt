@@ -1,0 +1,1 @@
+web: python lecture_bot1.py
