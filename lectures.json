@@ -1,0 +1,47 @@
+{
+  "Phytochemistry": {
+    "thread_id": null,
+    "lectures": {}
+  },
+  "Microbiology": {
+    "thread_id": null,
+    "lectures": {}
+  },
+  "Pharmacology": {
+    "thread_id": null,
+    "lectures": {}
+  },
+  "Pharmaceutics": {
+    "thread_id": null,
+    "lectures": {}
+  },
+  "Analytical Chemistry": {
+    "thread_id": null,
+    "lectures": {}
+  },
+  "Medicinal Chemistry": {
+    "thread_id": null,
+    "lectures": {}
+  },
+  "pharmaceutic": {
+    "thread_id": 19,
+    "lectures": {
+      "(1) Tablet and Tablet components.pdf": 20,
+      "message_21": 21
+    }
+  },
+  "Analytical chemistry": {
+    "thread_id": 9,
+    "lectures": {
+      "(2) infrared spectroscopy.pdf": 14,
+      "(1) lec 1.pdf": 10
+    }
+  },
+  "Medicinal chemistry": {
+    "thread_id": 2,
+    "lectures": {
+      "(1) introdcution.pdf": 3,
+      "(2) pharmacophore.pdf": 6
+    }
+  }
+}
